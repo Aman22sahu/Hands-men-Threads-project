@@ -109,9 +109,6 @@ Example placeholders:
 **Aman Sahu**  
 Salesforce Developer Trainee  
 Project: SkillWallet | AgentBlazer Champion Program  
+https://drive.google.com/file/d/19sHFGOtHX-yMktDmFa3T0FP-6VgdXz1B/view?usp=sharing
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
